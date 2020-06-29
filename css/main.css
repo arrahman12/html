@@ -1,0 +1,26 @@
+.blog{
+    border: 5px solid black;
+    margin: 10px;
+    padding: 1px 40px 80px 200px;
+    border-radius: 10px;
+    width: 15%;
+    float: left;
+}
+
+h1{
+    font-family: 'MuseoModerno', cursive;
+}
+h3{
+    font-family: 'MuseoModerno', cursive;
+}
+#sajek{
+    text-align:left;
+
+}
+#sajekerText{
+    font-family: 'MuseoModerno', cursive;;
+}
+#section{
+    color: aqua;
+    text-align: left;
+}
